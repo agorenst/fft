@@ -12,3 +12,4 @@ Todo:
 6) Better test inputs
 7) Better namescope stuff (ie, move some subroutines into fft.cpp, not exposed in the namespace).
 8) Consider automatic figure generation etc.
+9) Better input format handling
